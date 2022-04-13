@@ -1,8 +1,12 @@
 ### Hello there, I'm Abdelghani  👋
   - I love open source. ❤️ 
 
-### Languages and Tools:
+### Languages :
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&show_icons=true&theme=radical)
+
+<img src ="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+
+
 
 
 
