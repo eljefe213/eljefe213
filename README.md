@@ -1,5 +1,9 @@
 ### Hello there, I'm Abdelghani  👋
-  - coucou c'est moi 
+  - I love open source. ❤️ 
+
+### Languages and Tools:
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&show_icons=true&theme=radical)
+
 
 
 
