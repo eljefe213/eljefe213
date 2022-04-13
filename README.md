@@ -1,5 +1,7 @@
 ###  <h1 align="center">Hello there, I'm Abdelghani  👋<h1/>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eljefe213" alt="eljefe213" /></a> </p>
   - I love open source. ❤️ 
+  
 
 ### Languages :
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&show_icons=true&theme=radical)
