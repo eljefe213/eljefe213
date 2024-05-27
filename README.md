@@ -1,4 +1,5 @@
 <h1 align="center">Hello there, I'm Abdelghani  👋<h1/>
+  <a href="https://app.daily.dev/abdelghanihamaz"><img src="https://api.daily.dev/devcards/v2/CXw3ms7uTag2ltWRiz9oE.png?type=default&r=9bi" width="356" alt="abdelghani hamaz's Dev Card"/></a>
   <h3 align="center">I'm an Apprentic developper from France</h3>
   
   
