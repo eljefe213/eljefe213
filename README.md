@@ -1,8 +1,22 @@
 <h1 align="center">Hello there, I'm Abdelghani 👋</h1>
 
 <p align="center">
-    <a href="https://app.daily.dev/abdelghanihamaz">
-        <img src="https://api.daily.dev/devcards/v2/CXw3ms7uTag2ltWRiz9oE.png?type=wide&r=9bi" width="652" alt="abdelghani hamaz's Dev Card"/>
+    <!-- Lien vers Daily.dev -->
+    <a href="https://app.daily.dev/abdelghanihamaz" target="_blank">
+        <!-- Image Daily.dev avec un style amélioré -->
+        <img 
+            src="https://api.daily.dev/devcards/v2/CXw3ms7uTag2ltWRiz9oE.png?type=wide&r=9bi" 
+            width="652" 
+            alt="abdelghani hamaz's Dev Card"
+            style="border: 2px solid #e1e4e8; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);"
+        />
+    </a>
+</p>
+
+<p align="center">
+    <!-- Texte explicatif -->
+    <a href="https://app.daily.dev/abdelghanihamaz" target="_blank" style="text-decoration: none;">
+        Follow me on <b>Daily.dev</b> for more development tips and updates!
     </a>
 </p>
 
@@ -20,15 +34,43 @@
 
 ## 🛠️ Main Skills
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50" title="PHP"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" title="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="50" title="Vue.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" title="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" title="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" title="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" title="TypeScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="50" title="SQL"/>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50" title="PHP"/>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" title="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="50" title="Vue.js"/>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" title="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" title="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" title="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" title="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" title="SQL"/>
+      <br>SQL
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 💻 My favorite technologies
@@ -147,28 +189,37 @@
 
 ## 🔨 Tools
 
-<div align="center">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/>
-  </a>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="65" height="65" />
+      <br>Jenkins
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 📊 Top Languages
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&show_icons=true&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&langs_count=10&layout=compact&show_icons=true&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📊 GitHub Stats
