@@ -216,12 +216,11 @@
 </table>
 </div>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/eljefe213?tab=achievements">
-        <img src="https://github-profile-trophy.vercel.app/?username=eljefe213&theme=onestar&no-frame=true&column=3&row=2" width="40%" alt="GitHub Trophies"/>
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=eljefe213&show_icons=true&theme=dark&count_private=true&hide_border=true&cache_seconds=60" width="48%"/>
+    <img src="https://streak-stats.demolab.com/?user=eljefe213&theme=dark&hide_border=true" width="48%"/>
 </p>
 
 ## ✍️ Random Dev Quote
