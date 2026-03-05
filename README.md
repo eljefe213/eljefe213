@@ -219,18 +219,14 @@
 ## 📊 Top Languages
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&langs_count=10&layout=compact&show_icons=true&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&layout=compact&theme=radical&langs_count=10&cache_seconds=60"/>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/eljefe213?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=eljefe213&theme=dark&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Abdelghani's GitHub Stats"/>
-    </a>
-    <a href="https://github.com/eljefe213?tab=stars">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=eljefe213&theme=dark&hide_border=true" width="48%" alt="Abdelghani's GitHub Streak"/>
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=eljefe213&show_icons=true&theme=dark&count_private=true&hide_border=true&cache_seconds=60" width="48%"/>
+    <img src="https://streak-stats.demolab.com/?user=eljefe213&theme=dark&hide_border=true" width="48%"/>
 </p>
 
 ## 🏆 GitHub Trophies
