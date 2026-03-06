@@ -219,7 +219,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eljefe213&show_icons=true&theme=dark&count_private=true&hide_border=true&cache_seconds=60" width="48%"/>
     <img src="https://streak-stats.demolab.com/?user=eljefe213&theme=dark&hide_border=true" width="48%"/>
 </p>
 
